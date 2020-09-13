@@ -1,0 +1,169 @@
+\documentclass[a4paper, 11pt]{article}
+
+% Package Imports 
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[hmargin=1.25cm, vmargin = 0.75cm]{geometry}
+\usepackage{anyfontsize}
+\usepackage[T1]{fontenc}
+\usepackage[default]{raleway}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+
+
+\definecolor{date}{HTML}{666666} 
+\definecolor{primary}{HTML}{2b2b2b} 
+\definecolor{location}{HTML}{6A6A6A}
+\definecolor{subheadings}{HTML}{333333}
+
+\newenvironment{tightemize}{
+\vspace{-\topsep}\begin{itemize}[leftmargin=1em]\itemsep1pt \parskip0pt \parsep0pt}
+{\end{itemize}\vspace{-\topsep}}
+
+% Section Definitions
+\titleformat{\section}
+{\scshape \Large \color{location} \uppercase}
+{}
+{0em}
+{}
+[\vspace{-0.75em}]
+
+\titleformat{\subsection}[runin]{\scshape\large\bfseries}{}{0em}{}
+
+\titleformat{\subsubsection}[runin]{}{}{0em}{}
+
+\renewcommand{\maketitle}{
+\begin{center}
+{\Huge\ E.J. }{\Huge\color{location} Hannah}\\
+\vspace{0.35em}
+ehannah@stevens.edu | (732) 492-7133 | Hoboken, NJ | U.S. Citizen
+\end{center}
+}
+
+
+\begin{document}
+
+\author{E.J. Hannah}
+\maketitle
+\vspace{-0.5em}
+\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+\begin{minipage}[h]{0.33\textwidth}
+\section{Education}
+\subsection{Stevens Institute of \\Technology\\}
+\hspace{-7pt}\textsc{ME In Computer Engineering}\\
+Embedded Systems Conc.\\
+\textcolor{location}{December 2022 | Hoboken, NJ}\\
+
+\subsection{Stevens Institute of \\Technology\\}
+\hspace{-6pt}\textsc{BEng In Computer Engineering}\\
+Computer Architecture Conc.\\
+\textsc{Minor in Philosophy}\\
+\textcolor{location}{May 2022 | Hoboken, NJ}\\
+\textbf{\textcolor{location}{GPA: 3.90 / 4.00}}\\
+
+\subsection{Coursework\\}
+\hspace{-6pt}\textcolor{location}{Digital System Design\\
+Engineering Programming: C++\\
+Digital \& Comp. Sys. Architecture\\
+Microprocessor Systems\\
+Circuits and Systems\\
+Comp. Data Struct. \& Algorithms\\
+Modeling and Simulation\\
+Transport Phenomena in SSDs\\}
+
+\section{Relevant Skills}
+\subsection{Software\\}
+\hspace{-8pt}\textcolor{location}{Xilinx Vivado \textbullet{} GHDL \textbullet{}  MATLAB Simulink \textbullet{} PSpice \textbullet{}  Raspberry Pi \textbullet{} GitHub \textbullet{} Omnet++ \textbullet{} SolidWorks \textbullet{} LabVIEW \textbullet{} Cura \textbullet{} Microsoft Office Suite \textbullet{} Google Suite \textbullet{} Visual Studio Code \textbullet{}  Arduino}\\
+\subsection{Programming\\}
+\hspace{-6pt}\textcolor{location}{VHDL \textbullet{} C++ \textbullet{} ARM Assembly \textbullet{} Java \textbullet{} \LaTeX \textbullet{} HTML \textbullet{} CSS \textbullet{} Excel \textbullet{} Python}\\
+\subsection{Languages\\}
+\hspace{-6pt}\textcolor{location}{French - A2}\\
+\section{Links}
+LinkedIn://\textbf{\textcolor{date}{edward-hannah}} \\
+GitHub://\textbf{\textcolor{date}{EdgeHannah}} \\
+Handshake://\textbf{\textcolor{date}{15080928}} \\
+\section{Honor Societies}
+\textcolor{location}{
+Gear \& Triangle\\
+Eta Kappa Nu\\
+Rho Alpha Sigma\\}
+\end{minipage}
+\hfill
+\begin{minipage}[h]{0.63\textwidth}
+\fontsize{10}{0}\selectfont
+\vspace{1em}
+\section{Projects}
+\subsection{Speaker Crossover Network\\}
+\hspace{-6pt}\vspace{0.8em}\textbf{\textcolor{location}{January 2020 - May 2020 | Hoboken, NJ}}\\
+\begin{tightemize}
+\item{\textcolor{location}{Designed three passive crossover networks in MATLAB Simulink for filtering frequencies between mid-range and woofer speakers}}
+\item{\textcolor{location}{Performed theoretical and experimental calculations on gain and crossover frequency to determine filter order}}
+\end{tightemize}
+\vspace{-1em}
+\subsection{Field Sustainable Sensor System\\} 
+\hspace{-6pt}\vspace{0.8em}\textbf{\textcolor{location}{January 2019 - May 2019 | Hoboken, NJ}}\\
+\vspace{-0.5em}
+\begin{tightemize}
+\fontsize{10}{0}\selectfont
+\item{\textcolor{location}{Integrated a rudimentary Internet of Things (IoT) system to communicate acquired data to a cloud server}}
+\item{\textcolor{location}{Collected, stored, and visualized data gathered from deployed sensors using LabVIEW and Microcontroller DIO}}
+\item{\textcolor{location}{Practiced long-term project management and communication skills through team collaboration}}
+\end{tightemize}
+\vspace{-1em}
+\subsection{Autonomous Mobile Robot\\}
+\hspace{-6pt}\vspace{0.8em}\textbf{\textcolor{location}{August 2018 - January 2019 | Hoboken, NJ}}\\
+\vspace{-0.5em}
+\begin{tightemize}
+\fontsize{10}{0}\selectfont
+\item{\textcolor{location}{Prototyped and refined a robotic system featuring mechanical and sensual components using a systems design process}}
+\item{\textcolor{location}{Constructed hardware structure and supplementary basic Arduino programs for sensing and controlling software}}
+\end{tightemize}
+\vspace{-1em}
+\section{Experience}
+\subsection{Teaching Aide\\}
+\hspace{-6pt}\vspace{0.8em}\textbf{\textcolor{location}{May 2019 - August 2019 | Wellington, NZ}}\\
+\vspace{-0.5em}
+\begin{tightemize}
+\item{\textcolor{location}{Designed and implemented engaging lesson plans, teaching English as a second language to refugees}}
+\item{\textcolor{location}{Worked under professor’s direction to maintain a clean, safe, and comfortable teaching environment}}
+\item{\textcolor{location}{Engaged one-on-one with students with behavioral problems and learning disabilities in classroom and extracurricular settings}}
+\end{tightemize}
+\vspace{-1em}
+\subsection{Commvault}\textbf{\textcolor{location}{| Development Intern}}\\
+\hspace{-6pt}\vspace{0.8em}\textbf{\textcolor{location}{August 2018 - January 2018 | Tinton Falls, NJ}}
+\vspace{-0.5em}
+\begin{tightemize}
+\item{\textcolor{location}{Developed REST API requests for the Commvault Collection on Postman software}}
+\item{\textcolor{location}{Automated API testing on the CommCell server using Newman and Python scripts}}
+\item{\textcolor{location}{Collaborated with experienced employees on Commvault’s REST API documentation}}
+
+\end{tightemize}
+\vspace{-1em}
+\section{Leadership}
+\subsection{Computer Technology Committee}\textbf{\textcolor{location}{| Outreach Chair}}\\ 
+\hspace{-6pt}\vspace{0.8em}\textbf{\textcolor{location}{August 2020 - Present | Hoboken, NJ}}
+\vspace{-0.5em}
+\begin{tightemize}
+\item{\textcolor{location}{Hosted weekly educational presentations on computer technologies such as GitHub, C++, VHDL, and more for approximately 30 students}}
+\item{\textcolor{location}{Coordinated workshop development with relevant campus organizations and institution faculty}}
+\end{tightemize}
+\vspace{-1em}
+\subsection{Student Government}\textbf{\textcolor{location}{| Campus Life Committee Chair}}\\
+\hspace{-6pt}\vspace{0.8em}\textbf{\textcolor{location}{August 2018 - Present | Hoboken, NJ}}
+\vspace{-0.5em}
+\begin{tightemize}
+\item{\textcolor{location}{Worked with university administration to execute campus-wide initiatives encompassing female empowerment, mental health, social and study spaces, and general quality of life campus improvements}}
+\item{\textcolor{location}{Structured bi-weekly meetings regarding discussion on development of committee initiatives}}
+\end{tightemize}
+\vspace{-1em}
+\section{Involvement}
+\textcolor{location}{
+Student Government Association \textbullet{}
+The Stute \textbullet{}
+Academic Support Center Tutor \textbullet{}
+Symposia Book Store Volunteer \textbullet{}
+Presenter for Stevens \textit{150 for 150}}
+\end{minipage}
+
+\end{document}
