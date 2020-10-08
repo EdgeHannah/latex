@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 SEP 2020 14:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  8 OCT 2020 09:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,36 +280,36 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (./Resume1.aux)
 \openout1 = `Resume1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 45.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 4
-5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 38.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 3
+8.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Trying to load font information for T1+Raleway-TLF on input
- line 45.
+ line 38.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/raleway/T1Raleway-TLF.fd
 File: T1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for T1/Raleway-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 45.
+(Font)              scaled to size 10.95pt on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -360,98 +360,100 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 \everyMPtoPDFconversion=\toks22
 )
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 48.
+(Font)              scaled to size 24.88pt on input line 40.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 52.
+(Font)              scaled to size 10.95pt on input line 45.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 52.
+(Font)              scaled to size 14.4pt on input line 45.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 53.
+(Font)              scaled to size 12.0pt on input line 46.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/sc' will be
-(Font)              scaled to size 12.0pt on input line 53.
+(Font)              scaled to size 12.0pt on input line 46.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 63.
+(Font)              scaled to size 10.95pt on input line 56.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--64
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on inpu
-t line 77.
+t line 70.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 77.
+(Font)              scaled to size 10.95pt on input line 70.
 
-Underfull \hbox (badness 1072) in paragraph at lines 77--78
+Underfull \hbox (badness 1072) in paragraph at lines 70--71
 []  []\T1/Raleway-TLF/m/n/10.95 Xil-inx Vi-vado \TS1/Raleway-TLF/m/n/10.95 ˆ \T
 1/Raleway-TLF/m/n/10.95 GHDL \TS1/Raleway-TLF/m/n/10.95 ˆ \T1/Raleway-TLF/m/n/1
 0.95 MAT-LAB
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 79.
+(Font)              <10.95> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
+(Font)              <6> on input line 73.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 79.
+(Font)              scaled to size 8.0pt on input line 73.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
 
  []
 
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 94.
+(Font)              scaled to size 10.0pt on input line 90.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 96.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 98.
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/sc' will be
+(Font)              scaled to size 10.0pt on input line 94.
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 100.
+(Font)              scaled to size 10.0pt on input line 97.
 
-Underfull \hbox (badness 1616) in paragraph at lines 101--102
+Underfull \hbox (badness 1616) in paragraph at lines 98--99
 [][]\T1/Raleway-TLF/m/n/10 Performed the-o-ret-i-cal and ex-per-i-men-tal cal-c
 u-la-tions on gain and
  []
 
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 121.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 166.
+(Font)              scaled to size 10.0pt on input line 162.
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./Resume1.aux) ) 
 Here is how much of TeX's memory you used:
- 3597 strings out of 480608
- 52428 string characters out of 5903631
- 306844 words of memory out of 5000000
- 19455 multiletter control sequences out of 15000+600000
- 690970 words of font info for 60 fonts, out of 8000000 for 9000
+ 3604 strings out of 480608
+ 52570 string characters out of 5903631
+ 307092 words of memory out of 5000000
+ 19461 multiletter control sequences out of 15000+600000
+ 702645 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,5n,45p,481b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,5n,45p,395b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/raleway/a_
 bzmckq.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6
 .enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}<
@@ -459,7 +461,7 @@ bzmckq.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/raleway/a_2bcjq6
 fb></usr/local/texlive/2020/texmf-dist/fonts/type1/impallari/raleway/Raleway-It
 alic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/impallari/raleway/Rale
 way-Regular.pfb>
-Output written on Resume1.pdf (1 page, 66873 bytes).
+Output written on Resume1.pdf (1 page, 66574 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
